@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95253" started-at="2020-12-15T21:42:16 GMT" finished-at="2020-12-15T21:43:51 GMT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95253" started-at="2020-12-15T21:42:16 GMT" finished-at="2020-12-15T21:43:51 GMT">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.Tests@704a52ec]" name="setup" is-config="true" duration-ms="14803" started-at="2020-12-15T21:42:16 GMT" finished-at="2020-12-15T21:42:31 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="nullMobileTest()[pri:1, instance:tests.Tests@704a52ec]" name="nullMobileTest" duration-ms="10579" started-at="2020-12-15T21:42:31 GMT" finished-at="2020-12-15T21:42:42 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nullMobileTest -->
+        <test-method status="PASS" signature="invalidMobileTest()[pri:2, instance:tests.Tests@704a52ec]" name="invalidMobileTest" duration-ms="5285" started-at="2020-12-15T21:42:42 GMT" finished-at="2020-12-15T21:42:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidMobileTest -->
+        <test-method status="PASS" signature="nullEmailTest()[pri:3, instance:tests.Tests@704a52ec]" name="nullEmailTest" duration-ms="5883" started-at="2020-12-15T21:42:47 GMT" finished-at="2020-12-15T21:42:53 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nullEmailTest -->
+        <test-method status="PASS" signature="emailSymbolTest()[pri:4, instance:tests.Tests@704a52ec]" name="emailSymbolTest" duration-ms="6250" started-at="2020-12-15T21:42:53 GMT" finished-at="2020-12-15T21:42:59 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailSymbolTest -->
+        <test-method status="PASS" signature="emailSuffixTest()[pri:5, instance:tests.Tests@704a52ec]" name="emailSuffixTest" duration-ms="5001" started-at="2020-12-15T21:42:59 GMT" finished-at="2020-12-15T21:43:04 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailSuffixTest -->
+        <test-method status="PASS" signature="emailPrefixTest()[pri:6, instance:tests.Tests@704a52ec]" name="emailPrefixTest" duration-ms="5154" started-at="2020-12-15T21:43:04 GMT" finished-at="2020-12-15T21:43:09 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailPrefixTest -->
+        <test-method status="PASS" signature="nullPassTest()[pri:7, instance:tests.Tests@704a52ec]" name="nullPassTest" duration-ms="5167" started-at="2020-12-15T21:43:09 GMT" finished-at="2020-12-15T21:43:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nullPassTest -->
+        <test-method status="PASS" signature="spacePassTest()[pri:8, instance:tests.Tests@704a52ec]" name="spacePassTest" duration-ms="5104" started-at="2020-12-15T21:43:14 GMT" finished-at="2020-12-15T21:43:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spacePassTest -->
+        <test-method status="PASS" signature="upperCasePassTest()[pri:9, instance:tests.Tests@704a52ec]" name="upperCasePassTest" duration-ms="5633" started-at="2020-12-15T21:43:19 GMT" finished-at="2020-12-15T21:43:25 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upperCasePassTest -->
+        <test-method status="PASS" signature="shortPassTest()[pri:10, instance:tests.Tests@704a52ec]" name="shortPassTest" duration-ms="5060" started-at="2020-12-15T21:43:25 GMT" finished-at="2020-12-15T21:43:30 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shortPassTest -->
+        <test-method status="PASS" signature="mismatchPassTest()[pri:11, instance:tests.Tests@704a52ec]" name="mismatchPassTest" duration-ms="5466" started-at="2020-12-15T21:43:30 GMT" finished-at="2020-12-15T21:43:36 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mismatchPassTest -->
+        <test-method status="PASS" signature="dupMobileTest()[pri:12, instance:tests.Tests@704a52ec]" name="dupMobileTest" duration-ms="8912" started-at="2020-12-15T21:43:36 GMT" finished-at="2020-12-15T21:43:45 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dupMobileTest -->
+        <test-method status="PASS" signature="validSignUpTest()[pri:13, instance:tests.Tests@704a52ec]" name="validSignUpTest" duration-ms="6378" started-at="2020-12-15T21:43:45 GMT" finished-at="2020-12-15T21:43:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validSignUpTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.Tests@704a52ec]" name="teardown" is-config="true" duration-ms="469" started-at="2020-12-15T21:43:51 GMT" finished-at="2020-12-15T21:43:51 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
